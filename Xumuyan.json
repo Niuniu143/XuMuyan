@@ -1,0 +1,47 @@
+{
+  "menu_title": "IMMORTAL KING MOD",
+  "systems": [
+    {
+      "name": "IMMORTAL KING RED",
+      "status": "ONLINE",
+      "lib_name": "lib1.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "IMMORTAL KING VIOLET",
+      "status": "ONLINE",
+      "lib_name": "libVIOLET.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/libVIOLET.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"    
+    },
+    {
+      "name": "VVIP MOD",
+      "status": "ONLINE",
+      "lib_name": "lib2.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ASHTEVS PREMIUM MOD",
+      "status": "ONLINE",
+      "lib_name": "lib3.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NEROX FILES",
+      "status": "ONLINE",
+      "lib_name": "libAhook.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NEROX MOD",
+      "status": "ONLINE",
+      "lib_name": "lib4.so",
+      "download_url": "https://github.com/Niuniu143/Niuniu1/raw/refs/heads/main/lib4.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
