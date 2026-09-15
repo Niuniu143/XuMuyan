@@ -42,6 +42,13 @@
       "lib_name": "libXINNMOD.so",
       "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXINNMOD.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "UNDER MAINTENANCE",
+      "status": "ONLINE",
+      "lib_name": "libBLACK.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/libBLACK.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
