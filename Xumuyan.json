@@ -30,7 +30,14 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "XINN MOD",
+      "name": "HUMPHREY PREMIUM",
+      "status": "ONLINE",
+      "lib_name": "lib4.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib4.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "libXINNMOD.so",
       "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXINNMOD.so",
