@@ -9,13 +9,6 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "IMMORTAL KING VIOLET",
-      "status": "ONLINE",
-      "lib_name": "libVIOLET.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/libVIOLET.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"    
-    },
-    {
       "name": "VVIP MOD",
       "status": "ONLINE",
       "lib_name": "lib2.so",
@@ -41,13 +34,6 @@
       "status": "ONLINE",
       "lib_name": "libXINNMOD.so",
       "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXINNMOD.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "UNDER MAINTENANCE",
-      "status": "ONLINE",
-      "lib_name": "libBLACK.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/libBLACK.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
