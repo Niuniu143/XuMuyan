@@ -30,10 +30,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ASTRO MOD V1",
+      "name": "ASTRO CONTAINER V1",
       "status": "ONLINE",
       "lib_name": "lib5.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib5.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "KAZU X MITSU MOD",
+      "status": "ONLINE",
+      "lib_name": "lib6.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib6.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
