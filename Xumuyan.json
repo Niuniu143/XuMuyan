@@ -14,16 +14,16 @@
       "lib_name": "lib2.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
+    ,
     {
-      "name": "ASHTEVS PREMIUM MOD",
+      "name": "KITTORA THYRIS FREE",
       "status": "ONLINE",
       "lib_name": "lib3.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY MOD UPDATE",
+      "name": "HUMPHREY MOD",
       "status": "ONLINE",
       "lib_name": "lib4.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib4.so",
@@ -44,7 +44,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ASHTEVS MOD 1.6.57",
+      "name": "ASHTEVS MOD",
       "status": "ONLINE",
       "lib_name": "lib7.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib7.so",
