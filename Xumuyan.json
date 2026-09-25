@@ -72,6 +72,13 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
+      "name": "KYZ FREE MOD",
+      "status": "ONLINE",
+      "lib_name": "lib11.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib11.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
       "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "libXINNMOD.so",
