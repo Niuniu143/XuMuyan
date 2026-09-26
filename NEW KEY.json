@@ -1,0 +1,25 @@
+{
+  "keys": [
+    {
+      "key": "1",
+      "status": "active",
+      "expiry": "2050-11-1",
+      "max_dev": 1000,
+      "current_devices": 0
+    },
+    {
+      "key": "2",
+      "status": "active",
+      "expiry": "2050-9-30",
+      "max_dev": 1000,
+      "current_devices": 0
+    },
+    {
+      "key": "3",
+      "status": "active",
+      "expiry": "2050-12-31",
+      "max_dev": 1000,
+      "current_devices": 0
+    }
+  ]
+}
