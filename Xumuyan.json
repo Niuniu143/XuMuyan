@@ -9,7 +9,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CLUDDY VIP MOD",
+      "name": "CLUDDY MOD",
       "status": "ONLINE",
       "lib_name": "lib2.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so",
@@ -90,6 +90,13 @@
       "status": "ONLINE",
       "lib_name": "lib13.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib13.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NATACHI PREMIUM MOD",
+      "status": "ONLINE",
+      "lib_name": "lib14.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib14.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
