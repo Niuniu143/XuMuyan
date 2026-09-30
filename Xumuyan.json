@@ -102,8 +102,8 @@
     {
       "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
-      "lib_name": "libXINNMOD.so",
-      "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXINNMOD.so",
+      "lib_name": "libXLOADER.so",
+      "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXLOADER.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
