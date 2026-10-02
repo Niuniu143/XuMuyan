@@ -100,6 +100,13 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
+      "name": "CYRUS MOD",
+      "status": "ONLINE",
+      "lib_name": "lib15.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib15.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
       "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "libXLOADER.so",
