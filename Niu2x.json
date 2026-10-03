@@ -23,7 +23,14 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY MOD",
+      "name": "HUMPHREY V2",
+      "status": "ONLINE",
+      "lib_name": "lib16.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib16.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "HUMPHREY V3",
       "status": "ONLINE",
       "lib_name": "lib4.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib4.so",
@@ -107,13 +114,6 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "TEST MOD",
-      "status": "ONLINE",
-      "lib_name": "lib16.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib16.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "libXLOADER.so",
@@ -121,4 +121,4 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
-    }
+}
