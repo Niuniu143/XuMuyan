@@ -16,7 +16,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KITTORA THYRIS FREE",
+      "name": "KIELHAX MOD",
       "status": "ONLINE",
       "lib_name": "lib3.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
@@ -51,7 +51,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "NEROXHAX MOD",
+      "name": "TOSHI MOD",
       "status": "ONLINE",
       "lib_name": "lib8.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib8.so",
@@ -121,4 +121,4 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
-}
+    }
