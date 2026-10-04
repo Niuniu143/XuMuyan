@@ -23,13 +23,6 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY V2",
-      "status": "ONLINE",
-      "lib_name": "lib16.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib16.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "HUMPHREY V3",
       "status": "ONLINE",
       "lib_name": "lib4.so",
@@ -111,6 +104,13 @@
       "status": "ONLINE",
       "lib_name": "lib15.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib15.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ZENXVELD MOD",
+      "status": "ONLINE",
+      "lib_name": "lib16.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib16.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
