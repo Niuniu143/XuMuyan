@@ -51,7 +51,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ZANE DEADLY",
+      "name": "ZANE SOURCE",
       "status": "ONLINE",
       "lib_name": "lib6.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib6.so",
@@ -135,4 +135,4 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
-}
+    }
