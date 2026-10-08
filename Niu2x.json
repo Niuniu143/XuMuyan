@@ -9,20 +9,6 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CLUDDY MOD",
-      "status": "ONLINE",
-      "lib_name": "lib2.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "KITTORA THYRIS MOD",
-      "status": "ONLINE",
-      "lib_name": "lib3.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "HUMPHREY VIP MOD V12",
       "status": "ONLINE",
       "lib_name": "lib17.so",
@@ -65,67 +51,11 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "NEROX HAX MOD",
-      "status": "ONLINE",
-      "lib_name": "lib8.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib8.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "DARMODZ",
-      "status": "ONLINE",
-      "lib_name": "lib9.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib9.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "FURY MOD",
-      "status": "ONLINE",
-      "lib_name": "lib10.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib10.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "KYZ UPDATE MOD",
       "status": "ONLINE",
       "lib_name": "lib11.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib11.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "YIROSHI MOD",
-      "status": "ONLINE",
-      "lib_name": "lib12.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib12.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "ZORO MOD",
-      "status": "ONLINE",
-      "lib_name": "lib13.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib13.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "NATACHI PREMIUM MOD",
-      "status": "ONLINE",
-      "lib_name": "lib14.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib14.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "CYRUS MOD",
-      "status": "ONLINE",
-      "lib_name": "lib15.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib15.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "ZENXVELD MOD",
-      "status": "ONLINE",
-      "lib_name": "lib16.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib16.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"    
     },
     {
       "name": "NOTYOURAVERAGEXINN",
