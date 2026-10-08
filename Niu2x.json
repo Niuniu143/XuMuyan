@@ -2,7 +2,7 @@
   "menu_title": "IMMORTAL KING MOD",
   "systems": [
     {
-      "name": "IMMORTAL KING RED",
+      "name": "VOLTEX DELUXE",
       "status": "ONLINE",
       "lib_name": "lib1.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so",
@@ -48,13 +48,6 @@
       "status": "ONLINE",
       "lib_name": "lib11.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib11.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"    
-    },
-    {
-      "name": "NOTYOURAVERAGEXINN",
-      "status": "ONLINE",
-      "lib_name": "libXLOADER.so",
-      "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXLOADER.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
