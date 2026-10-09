@@ -56,13 +56,6 @@
       "lib_name": "lib11.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib11.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity" 
-        },
-    {
-      "name": "TEST",
-      "status": "ONLINE",
-      "lib_name": "lib12.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib12.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity" 
     }
   ]
 }
