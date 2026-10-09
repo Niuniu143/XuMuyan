@@ -58,10 +58,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"    
     },
     {
-      "name": "NOTYOURAVERAGEXINN",
+      "name": "TEST",
       "status": "ONLINE",
-      "lib_name": "libXLOADER.so",
-      "download_url": "https://oobakit.strangled.net/OnlineLibJustine/libXLOADER.so",
+      "lib_name": "libignity.so",
+      "download_url": "https://xcmods.x10.mx/OnlineLibZek/libignity.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
