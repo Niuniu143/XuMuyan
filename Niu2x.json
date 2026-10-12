@@ -16,6 +16,13 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
+      "name": "SHISUI MOD",
+      "status": "ONLINE",
+      "lib_name": "lib3.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
       "name": "HUMPHREY VIP MOD V12",
       "status": "ONLINE",
       "lib_name": "lib17.so",
