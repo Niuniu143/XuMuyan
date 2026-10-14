@@ -23,13 +23,6 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ECLIPSE MOD",
-      "status": "ONLINE",
-      "lib_name": "lib8.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib8.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "HUMPHREY VIP MOD V12",
       "status": "ONLINE",
       "lib_name": "lib17.so",
