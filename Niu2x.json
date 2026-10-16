@@ -2,13 +2,6 @@
   "menu_title": "IMMORTAL KING MOD",
   "systems": [
     {
-      "name": "IMMORTAL KING MOD RED",
-      "status": "ONLINE",
-      "lib_name": "lib2.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "VOLTEX DELUXE",
       "status": "ONLINE",
       "lib_name": "lib1.so",
@@ -20,13 +13,6 @@
       "status": "ONLINE",
       "lib_name": "lib3.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "HUMPHREY VIP MOD V12",
-      "status": "ONLINE",
-      "lib_name": "lib17.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib17.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
@@ -51,17 +37,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "ASHTEVS MOD",
-      "status": "ONLINE",
-      "lib_name": "lib7.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib7.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "KYZ UPDATE MOD",
       "status": "ONLINE",
       "lib_name": "lib11.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib11.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity" 
+    },
+    {
+      "name": "GHOSTX MOD",
+      "status": "ONLINE",
+      "lib_name": "lib7.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib7.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity" 
     }
   ]
