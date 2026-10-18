@@ -1,7 +1,7 @@
 [
   {
     "nameValuePairs": {
-      "URL": "https://newcharleshaxx-panels.x10.mx/connect",
+      "URL": "https://yueyue.x10.mx/connect",
       "NAME": "VOLTEX DELUXE",
       "LOGO": "https://newcharleshaxx-panels.x10.mx/Loader/Assets/1.png",
       "DOWNLOAD": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so",
@@ -10,58 +10,6 @@
       "KEY": "20001112",
       "TYPE": "VVIP",
       "STATUS": "ACTIVE"
-    }
-  },
-  {
-    "nameValuePairs": {
-      "URL": "https://newcharleshaxx-panels.x10.mx/connect",
-      "NAME": "TUNDRA-Z X WINTER",
-      "LOGO": "https://newcharleshaxx-panels.x10.mx/Loader/Assets/2.png",
-      "DOWNLOAD": "https://newcharleshaxx-panels.x10.mx/WINTER/Farlight/lib2.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODMGR",
-      "STATUS": "ACTIVE"
-    }
-  },
-  {
-    "nameValuePairs": {
-      "URL": "https://newcharleshaxx-panels.x10.mx/connect",
-      "NAME": "TUNDRA-Z (NO SKIN)",
-      "LOGO": "https://newcharleshaxx-panels.x10.mx/Loader/Assets/3.png",
-      "DOWNLOAD": "https://newcharleshaxx-panels.x10.mx/WINTER/Farlight/lib3.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODMGR",
-      "STATUS": "ACTIVE"
-    }
-  },
-  {
-    "nameValuePairs": {
-      "URL": "https://newcharleshaxx-panels.x10.mx/connect",
-      "NAME": "TUNDRA-Z FREEMIUM",
-      "LOGO": "https://newcharleshaxx-panels.x10.mx/Loader/Assets/4.png",
-      "DOWNLOAD": "https://newcharleshaxx-panels.x10.mx/WINTER/Farlight/lib4.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODMFREE",
-      "STATUS": "ACTIVE"
-    }
-  },
-  {
-    "nameValuePairs": {
-      "URL": "https://newcharleshaxx-panels.x10.mx/connect",
-      "NAME": "TUNDRA-Z X NEXORA",
-      "LOGO": "https://newcharleshaxx-panels.x10.mx/Loader/Assets/5.png",
-      "DOWNLOAD": "https://newcharleshaxx-panels.x10.mx/WINTER/Farlight/lib5.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODMGR",
-      "STATUS": "MAINTENANCE"
     }
   }
 ]
