@@ -9,10 +9,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "SHISUI MOD",
+      "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "lib3.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VOID PREMIUM MODZ",
+      "status": "ONLINE",
+      "lib_name": "lib25.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib25.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
