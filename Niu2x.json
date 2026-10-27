@@ -23,6 +23,13 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"   
     },
     {
+      "name": "WHITE CROWN MOD",
+      "status": "ONLINE",
+      "lib_name": "lib28.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib28.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"   
+    },
+    {
       "name": "HEXA MOD",
       "status": "ONLINE",
       "lib_name": "lib26.so",
