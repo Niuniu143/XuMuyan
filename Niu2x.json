@@ -2,24 +2,38 @@
   "menu_title": "IMMORTAL KING MOD",
   "systems": [
     {
-      "name": "VOLTEX DELUXE",
-      "status": "ONLINE",
-      "lib_name": "lib1.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "NOTYOURAVERAGEXINN",
-      "status": "ONLINE",
-      "lib_name": "lib3.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
       "name": "DINZ MOD",
       "status": "ONLINE",
       "lib_name": "lib25.so",
       "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib25.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"       
+    },
+    {
+      "name": "OWL HAX",
+      "status": "ONLINE",
+      "lib_name": "lib5.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib5.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ASHESZ MOD",
+      "status": "ONLINE",
+      "lib_name": "lib27.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib27.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"   
+    },
+    {
+      "name": "HEXA MOD",
+      "status": "ONLINE",
+      "lib_name": "lib26.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib26.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VOLTEX DELUXE",
+      "status": "ONLINE",
+      "lib_name": "lib1.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
@@ -30,17 +44,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "OWL HAX",
+      "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
-      "lib_name": "lib5.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib5.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "HEXA MOD",
-      "status": "ONLINE",
-      "lib_name": "lib26.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib26.so",
+      "lib_name": "lib3.so",
+      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
