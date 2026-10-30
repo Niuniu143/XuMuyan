@@ -3,7 +3,7 @@
     {      
       "name": "CALL OF DUTY",
       "status": "ONLINE",
-      "game_activity": "com.garena.game.codm",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
       "logo": "https://raw.githubusercontent.com/IMMORTALKING143/Niuniu/refs/heads/main/Call%20Of%20Duty%20Mobile%20Wallpaper%20(1).jpg",
       "libs": [
         {
