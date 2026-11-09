@@ -5,14 +5,14 @@
       "name": "JX-CODMGR",
       "status": "ONLINE",
       "lib_name": "lib1.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"       
     },
     {
       "name": "NOTYOURAVERAGEXINN",
       "status": "ONLINE",
       "lib_name": "lib2.so",
-      "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib2.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
