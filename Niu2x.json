@@ -21,6 +21,13 @@
       "lib_name": "lib3.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VOID MOD",
+      "status": "ONLINE",
+      "lib_name": "lib4.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib4.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
