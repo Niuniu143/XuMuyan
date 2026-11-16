@@ -28,6 +28,13 @@
       "lib_name": "lib4.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib4.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "HUMPHREY FREE MOD",
+      "status": "ONLINE",
+      "lib_name": "lib5.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib5.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
