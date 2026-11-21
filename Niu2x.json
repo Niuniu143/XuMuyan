@@ -30,10 +30,17 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY FREE MOD",
+      "name": "SACRED MOD",
       "status": "ONLINE",
       "lib_name": "lib5.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib5.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ARESS MOD",
+      "status": "ONLINE",
+      "lib_name": "lib6.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib6.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
