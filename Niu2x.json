@@ -42,12 +42,19 @@
       "lib_name": "lib6.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib6.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-        },
+    },
     {
       "name": "HUMPHREY FREE MOD",
       "status": "ONLINE",
       "lib_name": "lib7.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib7.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "ZENO FREE MOD",
+      "status": "ONLINE",
+      "lib_name": "lib8.so",
+      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib8.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
