@@ -44,7 +44,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HUMPHREY FREE MOD",
+      "name": "HUMPHREY PREMIUM MOD",
       "status": "ONLINE",
       "lib_name": "lib7.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib7.so",
@@ -55,13 +55,6 @@
       "status": "ONLINE",
       "lib_name": "lib8.so",
       "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib8.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "TEST MOD",
-      "status": "ONLINE",
-      "lib_name": "lib9.so",
-      "download_url": "https://github.com/Niuniu143/Yueyue/raw/refs/heads/main/lib9.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
